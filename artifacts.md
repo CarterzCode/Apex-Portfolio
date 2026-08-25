@@ -31,7 +31,7 @@ Workstation for my computer science class. Set up by and inventoried by me.
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
+### Knowledge Check
 <p class="artifact-meta">Image | August 2026</p>
 
 Score on number conversion knowledge check that I was able to get a 24/25 on using mental math.
@@ -42,7 +42,7 @@ Score on number conversion knowledge check that I was able to get a 24/25 on usi
 <span class="skill-tag">Binary to Hexadecimal</span>
 <span class="skill-tag">Decimal to Hexadecimal</span>
 
-[View Artifact](artifacts/"Number Conversion"/)
+[View Artifact](artifacts/Number Conversion)
 
 </div>
 
