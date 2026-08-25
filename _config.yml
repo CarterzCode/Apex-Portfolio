@@ -1,0 +1,9 @@
+title: Carter | Apex Portfolio
+description: Creative Computing portfolio
+
+baseurl: "/Apex-Portfolio"
+
+markdown: kramdown
+
+exclude:
+  - README.md
