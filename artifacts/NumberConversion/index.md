@@ -17,7 +17,7 @@ Score on number conversion knowledge check.
 
 ## The Artifact
 
-[Picture](https://github.com/CarterzCode/Apex-Portfolio/blob/main/artifacts/"Number Conversion"/KnowledgeCheckScore.jpg)
+[Picture](https://github.com/CarterzCode/Apex-Portfolio/blob/main/artifacts/NumberConversion/KnowledgeCheckScore.jpg)
 
 
 ![Image of an assembled workstation.](KnowledgeCheckScore.png)

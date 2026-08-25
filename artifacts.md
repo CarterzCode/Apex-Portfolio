@@ -42,7 +42,7 @@ Score on number conversion knowledge check that I was able to get a 24/25 on usi
 <span class="skill-tag">Binary to Hexadecimal</span>
 <span class="skill-tag">Decimal to Hexadecimal</span>
 
-[View Artifact](artifacts/Number Conversion)
+[View Artifact](artifacts/NumberConversion)
 
 </div>
 
