@@ -31,17 +31,18 @@ Workstation for my computer science class. Set up by and inventoried by me.
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### Knowledge Check
+<p class="artifact-meta">Image | August 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+Score on number conversion knowledge check that I was able to get a 24/25 on using mental math.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Decimal to Binary</span>
+<span class="skill-tag">Binary to Hexadecimal</span>
+<span class="skill-tag">Decimal to Hexadecimal</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/Number Conversion)
 
 </div>
 
