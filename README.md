@@ -37,5 +37,4 @@ This repository does not include:
 ## Contact
 
 - **GitHub:** [@CarterzCode](https://github.com/CarterzCode)
-- **LinkedIn:** [Optional link]
 - **Email:** carterq822@gmail.com
