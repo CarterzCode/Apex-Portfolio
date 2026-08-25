@@ -17,7 +17,7 @@ Set up computer science workstation assembled by me during class.
 
 ## The Artifact
 
-[Picture](https://github.com/Creb206/Apex-Portfolio/blob/main/artifacts/artifact-name/IMG_20260817_111545.jpg)
+[Picture](https://github.com/CarterzCode/Apex-Portfolio/blob/main/artifacts/Workstation/Workstation.jpg)
 
 
 ![Image of an assembled workstation.](Workstation.jpg)
