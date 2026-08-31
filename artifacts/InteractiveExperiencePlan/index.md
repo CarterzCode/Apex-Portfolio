@@ -22,7 +22,7 @@ Plan for an interactive expierience where you find yourself in a strange facilit
 
 ![Image of an assembled workstation.](Flowchart.png)
 
-[View the full artifact](Flowchart.png)
+[View the full artifact](Interactive-Experience-Project-Plan.pdf)
 
 ## Skills Demonstrated
 
