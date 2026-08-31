@@ -31,7 +31,8 @@ Plan for an interactive expierience where you find yourself in a strange facilit
 
 ## Tools and Technologies
 
-- Planning software
+- Draw.io
+- Google Docs
 
 ## Implementation
 
