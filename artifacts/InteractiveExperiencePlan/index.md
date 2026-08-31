@@ -3,7 +3,7 @@ layout: default
 title: Interactive Experience Plan
 ---
 
-# Number Conversion
+# Interactive Experience Plan
 
 <p class="artifact-meta"> PDF | August 2026 </p>
 

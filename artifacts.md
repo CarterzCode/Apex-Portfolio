@@ -48,17 +48,17 @@ Score on number conversion knowledge check that I was able to get a 24/25 on usi
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### Interactive Experience Plan
+<p class="artifact-meta">PDF | August 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+Plan for an interactive expierience where you find yourself in a strange facility. 
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Creative thinking</span>
+<span class="skill-tag">Planning</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/InteractiveExperiencePlan)
 
 </div>
 
