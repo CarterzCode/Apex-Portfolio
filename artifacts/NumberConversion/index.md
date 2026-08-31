@@ -26,7 +26,7 @@ Score on number conversion knowledge check.
 
 ## Skills Demonstrated
 
-<span class="skill-tag">Decimal to Binart</span>
+<span class="skill-tag">Decimal to Binary</span>
 <span class="skill-tag">Binary to Hexadecimal</span>
 <span class="skill-tag">Decimal to Hexadecimal</span>
 
