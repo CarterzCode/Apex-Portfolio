@@ -5,24 +5,24 @@ title: Number Conversion
 
 # Number Conversion
 
-<p class="artifact-meta"> Image | August 2026 </p>
+<p class="artifact-meta"> Image | September 2026 </p>
 
 ## Summary
 
-Score on number conversion knowledge check.
+This was a text adventure experience I coded and decided to use clases for, classes allowed me to easily have the rooms be dynamic while having simplistic base code.
 
 **Project:** Text Adventure Project.
 
-**My role:** Taker of the knowledge Check.
+**My role:** Creator of the text adventure.
 
 ## The Artifact
 
-[Picture](https://github.com/CarterzCode/Apex-Portfolio/blob/main/artifacts/NumberConversion/KnowledgeCheckScore.jpg)
+[Picture](https://github.com/CarterzCode/Apex-Portfolio/blob/main/artifacts/NumberConversion/TextAdventureCode.png)
 
 
-![Image of an assembled workstation.](KnowledgeCheckScore.png)
+![Image of a code portion.](TextAdventureCode.png)
 
-[View the full artifact](KnowledgeCheckScore.png)
+[View the full artifact](https://github.com/CarterzCode/TextAdventure)
 
 ## Skills Demonstrated
 
@@ -36,11 +36,11 @@ Score on number conversion knowledge check.
 
 ## Implementation
 
-Using mental math, I was able to score a 24/25 on my knowledge check for number system conversion.
+Using a class based structure, I was able to have a dynamic room based text adventure that allows the player to freely move around changing room
 
 ## What I Learned
 
-How to convert between different number systems quickly.
+How to implement classes and use them effectively. 
 
 ---
 
