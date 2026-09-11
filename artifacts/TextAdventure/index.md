@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Number Conversion
+title: Text Adventure
 ---
 
 # Number Conversion
