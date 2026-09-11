@@ -15,17 +15,17 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 
 <div class="artifact-card" markdown="1">
 
-### CS Lab Workstation
-<p class="artifact-meta"> Image | August 2026 </p>
+### Text Adventure
+<p class="artifact-meta"> Image | September 2026 </p>
 
 Workstation for my computer science class. Set up by and inventoried by me.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">Inventorying</span>
-<span class="skill-tag">Hardware Management</span>
+<span class="skill-tag">Creative Design</span>
+<span class="skill-tag">Concept Development</span>
 
-[View Artifact](artifacts/Workstation)
+[View Artifact](artifacts/TextAdventure)
 
 </div>
 
@@ -65,17 +65,21 @@ Plan for an interactive expierience where you find yourself in a strange facilit
 ---
 ## All Artifacts
 
-## [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+## CS Lab Workstation
+<p class="artifact-meta"> Image | August 2026 </p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+Workstation for my computer science class. Set up by and inventoried by me.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Inventorying</span>
+<span class="skill-tag">Hardware Management</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/Workstation)
+
+</div>
+
+
 
 
 ---
