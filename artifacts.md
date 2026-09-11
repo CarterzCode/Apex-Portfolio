@@ -18,7 +18,7 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 ### Text Adventure
 <p class="artifact-meta"> Image | September 2026 </p>
 
-Workstation for my computer science class. Set up by and inventoried by me.
+Text adventure expierience coded by me.
 
 **Skills demonstrated:**
 
