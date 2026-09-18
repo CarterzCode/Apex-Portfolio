@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Carter
+# Carter Quarles
 
 ## Apex Creative Computing Portfolio
 
