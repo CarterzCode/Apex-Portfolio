@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Text Adventure
+title: Coding Competition
 ---
 
 # Number Conversion
@@ -9,11 +9,11 @@ title: Text Adventure
 
 ## Summary
 
-This was a text adventure experience I coded and decided to use clases for, classes allowed me to easily have the rooms be dynamic while having simplistic base code.
+These were two in class coding competitions that I participated in.
 
-**Project:** Text Adventure Project.
+**Project:** Coding Competition.
 
-**My role:** Creator of the text adventure.
+**My role:** Team member in the coding competition.
 
 ## The Artifact
 
