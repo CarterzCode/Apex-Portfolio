@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Coding Competition
+title: Text Adventure
 ---
 
-# Number Conversion
+# Text Adventure
 
 <p class="artifact-meta"> Image | September 2026 </p>
 
 ## Summary
 
-These were two in class coding competitions that I participated in.
+This was a text adventure experience I coded and decided to use clases for, classes allowed me to easily have the rooms be dynamic while having simplistic base code.
 
-**Project:** Coding Competition.
+**Project:** Text Adventure Project.
 
-**My role:** Team member in the coding competition.
+**My role:** Creator of the text adventure.
 
 ## The Artifact
 

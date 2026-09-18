@@ -1,19 +1,19 @@
 ---
 layout: default
-title: CS Lab Workstation
+title: Coding Competition
 ---
 
-# CS Lab Workstation
+# Coding Competition
 
-<p class="artifact-meta"> Image | August 2026 </p>
+<p class="artifact-meta"> Image & Repositories | September 2026 </p>
 
 ## Summary
 
-Set up computer science workstation assembled by me during class.
+These were two in class coding competitions that I participated in.
 
-**Project:** CS Lab Launch
+**Project:** Lock in and code.
 
-**My role:** Inventory and assembly 
+**My role:** Team member in the coding competition.
 
 ## The Artifact
 
